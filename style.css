@@ -1,0 +1,138 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+}
+
+.card{
+    width: 23rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(12, 16, 31, 0.4);
+    margin: 40px auto;
+    height: 400px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.card:hover{
+    height : 470px;
+    width: 25rem;
+    margin: 5px auto;
+}
+
+input{
+    border: 1px solid #333;
+    font-size: 18px;
+    padding: 12px 10px;
+    margin: 10px 0;
+    width: 50%;
+}
+
+img{
+    width : 100%;
+    height : 60%;
+}
+
+.card-lists{
+    width: 100%;
+}
+
+.top_{
+    background-color:aliceblue;
+    width: 100%;
+    height: 500px;
+}
+
+.filter:hover{
+    text-align: start;
+}
+
+.filter{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.row{
+    text-align: center;
+}
+
+#card-lists{
+    text-align: center;
+}
+
+.pri_class{
+    color:burlywood;
+}
+
+.dis_class{
+    color: green;
+}
+
+.img_link{
+    color : black;
+}
+
+.img_link:hover{
+    color:tomato;
+}
+.aboutme{
+    text-align: end;
+    background-color: aliceblue;
+    font-size: 30px;
+}
+
+.prof_img{
+    height: 200px;
+    width: auto;
+}
+
+.prof_img:hover{
+    height: 250px;
+    width: auto ;
+}
+
+#card{
+
+    width: 18rem;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(12, 16, 31, 0.4);
+    margin: 20px auto;
+    height: 300px;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+#card:hover{
+    height : 320px;
+    margin: 5px auto;
+    background-color:blanchedalmond;
+}
+
+.row{
+    margin: 20px 20px;
+}
+
+.card_show{
+    width : 400px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(12, 16, 31, 0.4);
+    margin: 20px auto;
+    height: 400px;
+    text-align: center;
+    background-color: aliceblue;
+    position: absolute;
+    top: 100px;
+}
+
+.card_show:hover{
+    height : 380px;
+    margin: 5px auto;
+}
+
+.info:hover{
+    color:cadetblue;
+}
